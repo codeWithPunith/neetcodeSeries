@@ -25,6 +25,7 @@ public class Solution {
                 squares.get(squareKey).add(board[r][c]);
             }
         }
+        
         return true;
     }
 }
